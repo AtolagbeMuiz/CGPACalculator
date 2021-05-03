@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\ref\CGPACalculator.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\bin\Debug\net5.0\CGPACalculator.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\ref\CGPACalculator.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CGPACalculator\obj\Debug\net5.0\CGPACalculator.genruntimeconfig.cache
