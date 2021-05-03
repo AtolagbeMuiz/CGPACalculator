@@ -11,11 +11,13 @@ public class Repository
             this.CourseTable = new List<Course>();
         }
 
+        //method that adds courses to the collection
         public void addCourse(Course course)
         {
             this.CourseTable.Add(course);
         }
 
+        //method that returns the list of courses from the collection
          public List<Course> getAllCourses()
         {
             return CourseTable;

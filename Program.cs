@@ -116,12 +116,16 @@ namespace CGPACalculator
 
             while(menu.getCurrentStage() == 3)
             {
-                // we want to calculate grade points for all the courses that have been added
-
+                //we want to calculate grade points for all the courses that have been added
                 System.Console.WriteLine("Welcome to CGPA Calculation mode");
+
+                //returns list of courses in DB/Collection
                 var listOfCourses = repo.getAllCourses();
+                
+                //calls the calculateCGPA method in Calulator class
                 var calculatedResult = calc.calculateCGPA(listOfCourses);
 
+                //loops through the list of courses
                 foreach(var course in listOfCourses)
                 {
                     System.Console.WriteLine(course.CourseCode + "        " + course.CourseScore  + "        " + course.NumberOfUnits);

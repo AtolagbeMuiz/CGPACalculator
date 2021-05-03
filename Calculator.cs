@@ -14,12 +14,15 @@ public class Calculator
        //This Foreach Loop iterates through the courses in the list
         foreach(var course in listofCourses)
         {
+            //sum of each unit for a course
             totalUnits += course.NumberOfUnits;
 
             //This For Loop iterates th
             //for(int i =0; i < listofCourses.Count; i++)
             //foreach(var )
             //{
+
+                //decision statements to check the score of each course and calculates the points(Grade Point * Number of Units)
                 if((course.CourseScore >= 70) && (course.CourseScore <= 100))
                 {
                     A += (5 * course.NumberOfUnits);
